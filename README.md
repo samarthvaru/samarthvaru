@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Samarth and I'm a Software Developer. I have a Master's Degree in Computer Science and am here to contribute.</h2>
+<h2 align="left">Hi 👋! My name is Samarth and I'm a Software Developer. I have a Master's Degree in Computer Science and am here to contribute and create great projects</h2>
 
 ###
 
