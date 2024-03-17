@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Samarth and I'm a Software Developer. I have a Master's Degree in Computer Science and am here to contribute and create great projects</h2>
 
-<h3><a href='https://portfolio-973o.onrender.com/'>View my Portfolio</a></h3>
+<h3><a href='https://portfolio-973o.onrender.com/' target='_blank'>View my Portfolio</a></h3>
 
 ###
 
